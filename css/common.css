@@ -1,0 +1,29 @@
+*{margin:0;padding:0;letter-spacing: 1px;}
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dt,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+body{font-size: 100%;font-family: HELVETICA;background: #efefef;overflow-x: hidden;}
+a{color:#2d374d;text-decoration: none}
+a：hover{color: #cd0200;text-decoration: underline;}
+em{font-style: normal;}
+li{list-style: none;}
+img{border: 0;vertical-align: middle;}
+table{border-collapse: collapse;border-spacing: 0}
+p{word-wrap:break-world}
+h1,h2,h3,h4,h5,h6{font-weight: normal;margin: 0}
+
+
+.headerColor{color: #F4D03F; }
+
+.cl{clear: both;}
+
+.font-size-sm{font-size: 75%;}
+.font-size-md{font-size: 100%;}
+.font-size-lg{font-size: 125%;}
+
+.bold{font-weight: bold;}
+
+
+
+
+
+
+
