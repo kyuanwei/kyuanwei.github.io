@@ -1,0 +1,105 @@
+
+/*header部分样式*/
+.header{
+	/*position: fixed;*/
+	z-index: 10;
+	width: 100%;
+	height: 80px;
+	background: #272821;
+	overflow: hidden;
+}
+.headerContainer{
+	width: 90%;
+	height: 100%;
+	margin:0 auto;
+}
+.headerLeft{
+	height: 100%;
+	padding: 10px 0 0 25px;
+	float: left;
+}
+.headerNav{
+	float: right;
+}
+.headerNav li{
+	width: 100px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	float: left;
+}
+.headerNav li a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	color: #F4D03F;
+	text-align: middle;
+}
+.headerNav li a:hover{
+	background: #F4D03F;
+	color: #272822;
+	font-size: 20px;
+}
+
+
+/*footer部分样式*/
+.footer{
+	height: 200px;
+	width: 100%;
+	background: #272822;
+	color: #F4D03F;
+}
+.footerMain{
+	width: 75%;
+	margin: 0 auto;
+}
+.forums{
+	width: 100%;
+	height: 99px;
+	overflow: hidden;
+	border-bottom: 1px solid #F4D03F;
+}
+.footerTitle{
+	height: 75px;
+	width: 15%;
+	overflow: hidden;
+	padding-top: 20px;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	/*background: #fff;*/
+}
+.footerContent{
+	height: 60px;
+	width: 85%;
+	margin: 20px 0 0 0;
+	float: left;
+	overflow: hidden;
+	/*background: #ccc;*/
+}
+.footerContent li{
+	float: left;
+	height: 35px;
+	width: 125px;
+	margin: 20px 0 0 15px;
+}
+.footerContent li a{
+	color: #F4D03F;
+}
+.footerContent li a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
